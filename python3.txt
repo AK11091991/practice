@@ -1,0 +1,12 @@
+welcome to python coding
+
+print('enter any number from user')
+ 
+ if n%2 == 0
+
+     print('number is even number')
+
+ else
+
+	print('number is even number')
+  
